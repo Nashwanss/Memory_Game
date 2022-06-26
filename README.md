@@ -2,31 +2,35 @@
 #### Table of contents
 * [General info](#general-information)
 * [Technologies](#Technologies)
-* [Setup & Launch](#Setup-&-Launch)
+* [Setup & Launch](#Setup)
 * [Preview](#Preview)
 #### Preview
 ![GIF](./memo_game.gif)
 
 #### General information
-Funny game using the Front-end technology logos as flash cards.
-It's fun and suitable for all ages category. (I did another one utilising disney catoons charachters to attract the younger enftant category with different sound effects).
+Fun game using Front-end technology logos as flash cards.
+It's fun and suitable for all age groups. (I made another one using Disney Catoons characters to appeal to the younger kids category with different sound effects).
 #### Technologies
 Actually , it's very simple project using only:
 - HTML.
 - CSS.
 - JavaScript.
 
-#### Setup & Launch
-This app can run very smooth on the local environmment, so no need to any special setup.
+#### Setup
+This app runs smoothly on the local environmment, so no need for any special setup.
 ```
-You can run the app directly via the HTML file
-Or
-By using the VS-Code extention (Go-Live)
+You can use Live-Server extention from your IDE
+```
+<img src="https://ritwickdey.gallerycdn.vsassets.io/extensions/ritwickdey/liveserver/5.7.5/1646738284779/Microsoft.VisualStudio.Services.Icons.Default" width="38"> 
+
+```
+Or simlpy By double click the HTML file
 ```
 Also you can find a production versioin below:
 | Platform | Link |
 | ------ | ------ |
-| Heroku | www.heroku.blablabla.com
-**Enjoy & Have Fun !**
+| Heroku | www.heroku/pas/encore.com
 
+
+**Enjoy & Have Fun !**
 ![GIF](https://c.tenor.com/YxJXXGG3WsUAAAAC/cat-have-a-good-day.gif)
